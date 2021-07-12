@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACSCDSCIMATH\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\ACSCDSCIMATH\\Desktop\\gradebook\\src\\Gradebook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACSCDSCIMATH\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\ACSCDSCIMATH\\Desktop\\gradebook\\src\\Gradebook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACSCDSCIMATH\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\ACSCDSCIMATH\\Desktop\\gradebook\\src\\Gradebook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\ACSCDSCIMATH\\Desktop\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Users\\ACSCDSCIMATH\\Desktop\\gradebook\\src\\Gradebook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\ACSCDSCIMATH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACSCDSCIMATH\\Desktop\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\ACSCDSCIMATH\\Desktop\\gradebook\\src\\Gradebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACSCDSCIMATH\\AppData\\Roaming\\NuGet\\NuGet.Config",
